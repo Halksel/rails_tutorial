@@ -1,0 +1,3 @@
+[submodule "environment/sample_app"]
+	path = environment/sample_app
+	url = /Users/Hira/rails_tutorial/environment/sample_app.git
